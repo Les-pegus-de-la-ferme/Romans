@@ -1,0 +1,8 @@
+% Bazar LaTeX
+*.tps
+*.aux
+*.log
+*.toc
+
+% Ressources privées
+*/Idees.txt
